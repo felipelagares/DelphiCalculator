@@ -1,0 +1,31 @@
+# Delphi arquivos binários
+*.exe
+*.dcu
+*.~*
+*.identcache
+*.local
+*.map
+*.bak
+
+# Delphi histórico de backup
+__history/
+*.dsk
+*.tvsconfig
+*.stat
+*.cfg
+*.il?
+*.dcp
+*.bpl
+
+# Outros
+*.tmp
+*.log
+*.obj
+*.pch
+*.ipch
+*.opensdf
+*.sdf
+*.ncb
+*.aps
+*.suo
+*.user
